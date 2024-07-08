@@ -1,8 +1,4 @@
-// Select the first element with the class name "track"
-var trackElement = document.querySelector('.track');
-
-// Now you can manipulate the element, for example:
-trackElement.style.color = 'red !important'; // Change the text color to red
+/* -------------------------------- JSON DATA ------------------------------- */
 
 const jsonData = {
     "abdo_basit_abdo_samad": [
@@ -31,9 +27,16 @@ const jsonData = {
             "surahNumber": 4,
             "surahNameAr": "النساء",
             "reciterName": "عبد الباسط عبد الصمد"
-        }]
+        },
+
+
+
+    ]
 };
 
+
+
+/* --------------------------------- JS CODE -------------------------------- */
 
 // Select the original track element
 const originalTrackElement = document.querySelector('.track-item');
@@ -44,21 +47,24 @@ jsonData.abdo_basit_abdo_samad.forEach((surah) => {
 
     // Clone the original track element
     const trackClone = originalTrackElement.cloneNode(true);
-    trackClone.addEventListener('click', () => {
+
+    // adding event listener when the track is clicked it shows the global player bellow
+    trackClone.addEventListener('click', (e) => {
         document.querySelector('.main-media-player').style.display = "flex";
         document.querySelector('.main-media-player').style.transform = "translate3d(0px, 0px, 0px)";
     })
 
+
     // Populate the cloned element with data from the JSON
     trackClone.querySelector('.track-number').textContent = surah.surahNumber;
     trackClone.querySelector('.track-title').textContent = surah.surahNameAr;
-    trackClone.querySelector('.track-thumbnail').src = surah.surahSvgLink || '';
+    trackClone.querySelector('.track-thumbnail-surah-svg').src = surah.surahSvgLink || '';
     trackClone.querySelector('.track-url').innerHTML = surah.surahAudioLink || '';
-    // This for the player
+
+    // This for the player plugin data
     trackClone.querySelector('.track-name').textContent = surah.surahNameAr;
     trackClone.querySelector('.track-genres').textContent = "سورة";
     trackClone.querySelector('.track-image').src = surah.surahSvgLink || '';
-    // trackClone.querySelector('.reciter-name').textContent = surah.reciterName;
 
     // Append the cloned element to the container
     container.appendChild(trackClone);
@@ -70,10 +76,18 @@ jsonData.abdo_basit_abdo_samad.forEach((surah) => {
     });
 
 });
+
+
 // hide the badge
 document.querySelector('.w-webflow-badge').remove();
 
 
+
+
+
+
+
+/* ----------------------------------- /FUNCTIONS/ ----------------------------------- */
 
 // Function to fetch the audio file and get its duration
 function fetchAudioDuration(url) {
@@ -105,3 +119,36 @@ function formatDuration(seconds) {
         return `${formattedMinutes}:${formattedSeconds}`;
     }
 }
+
+
+/* ----------------------------------- /Observer/ ----------------------------------- */
+
+// Function to log the current element with the class 'track-item is-current'
+function logCurrentElement(mutationsList, observer) {
+    mutationsList.forEach(mutation => {
+        if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+            const target = mutation.target;
+            if (target.classList.contains('track-item') && target.classList.contains('is-current')) {
+
+                // Adding the thumbnail to the global player
+                document.querySelector('#global-player-thumbnail-js').innerHTML = target.querySelector('.track-thumbnail').outerHTML;
+            }
+        }
+    });
+}
+
+// Create a MutationObserver instance and pass the callback function
+const observer = new MutationObserver(logCurrentElement);
+
+// Define the element to observe (e.g., the document body)
+const targetNode = document.body;
+
+// Options for the observer (which mutations to observe)
+const config = {
+    attributes: true, // Listen for changes to attributes
+    subtree: true,    // Include all descendants in the observation
+    attributeFilter: ['class'] // Only observe changes to the 'class' attribute
+};
+
+// Start observing the target node for configured mutations
+observer.observe(targetNode, config);
