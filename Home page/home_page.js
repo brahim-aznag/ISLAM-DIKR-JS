@@ -1128,9 +1128,9 @@ function playReciterBtnHandler(e, currentPlayReciterBtn) {
 
     console.log(disabledBtn);
     if (disabledBtn && disabledBtn !== currentPlayReciterBtn) {
-        disabledBtn.setAttribute('zikr-play-btn-state', 'enabled')
-        disabledBtn.style.opacity = "1"
-        disabledBtn.style.cursor = "pointer"
+        disabledBtn.setAttribute('zikr-play-btn-state', 'enabled');
+        disabledBtn.style.opacity = "1";
+        disabledBtn.style.cursor = "pointer";
     }
 
 
