@@ -185,7 +185,14 @@ let ZIKR_reciters = [
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
         "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c963e59e7fdb9e59fac_mohamedManshawi.png",
         "correct_server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mojawwad/"
-
+    },
+    {
+        "API_id": 205,
+        "name": "أحمد الحذيفي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c4dc09a720aa199a4e226e_%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A%20.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c4db152150703a158d0897_%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A.jpg",
     },
 
 ]
