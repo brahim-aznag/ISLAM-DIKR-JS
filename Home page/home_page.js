@@ -19,75 +19,26 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/66892e5a542d420b9544ff31_faresAbbad.jpg",
         "country_text": "اليمن",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/ye.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96ce3dbda626c8d8cc_fraisIbad.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96ce3dbda626c8d8cc_fraisIbad.png",
+        "correct_server": ""
     },
     {
         "API_id": 20,
         "name": "خالد الجليل",
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08214fa2f15f51dd42_khalidAljalil.png",
         "country_text": "السعودية",
-        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c962c4cdea33395116f_khalidAljalil.png"
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ye.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c962c4cdea33395116f_khalidAljalil.png",
+        "correct_server": ""
     },
-    {
-        "API_id": 253,
-        "name": "اسلام صبحي",
-        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08fea9a713e1835438_islamSoubhi.png",
-        "country_text": "مصر",
-        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965c36cba04ff43a1c_islamSoubhi.png"
-    },
-
     {
         "API_id": 221,
         "name": "رعد محمد الكردي",
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08555f187281d45b09_raadAlkordi.png",
         "country_text": "العراق",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/iq.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965c36cba04ff43a1f_raadAlkordi.png"
-    },
-    {
-        "API_id": 30,
-        "name": "سعد الغامدي",
-        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/669ba04b83bc6631dbc08192_saadalghamdi.png",
-        "country_text": "السعودية",
-        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c9675426f7d57844637_saadRhamdi.png"
-    },
-
-    {
-        "API_id": 231,
-        "name": "هزاع البلوشي",
-        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08762f962b1a85f1f9_hozaaBaloshi.png",
-        "country_text": "عمان",
-        "country_flag": "https://flagicons.lipis.dev/flags/4x3/om.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965d93f7afd3694573_hozaaBaloshi.png"
-    },
-    {
-        "API_id": 163,
-        "name": "حاتم فريد الواعر",
-        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08555f187281d45ae0_HatimFaridWaair.png",
-        "country_text": "مصر",
-        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96cfcf89a426b0258e_HatimFaridWaair.png"
-    },
-
-    {
-        "API_id": 138,
-        "name": "نورين محمد صديق",
-        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e0840917fd0565aa215_nourinMuhamed.png",
-        "country_text": "السودان ",
-        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sd.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965a33c8acb6c153a2_nourinMuhamed.png"
-    },
-
-    {
-        "API_id": 286,
-        "name": "حسن صالح",
-        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e081ebc2423ce69b2eb_hassanSalih.png",
-        "country_text": "مصر",
-        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96aa3eae4f11ebe50f_hassanSalih.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965c36cba04ff43a1f_raadAlkordi.png",
+        "correct_server": ""
     },
     {
         "API_id": 51,
@@ -95,7 +46,62 @@ let ZIKR_reciters = [
         "avatar": "https://cdns-images.dzcdn.net/images/talk/06b711ac6da4cde0eb698e244f5e27b8/1000x1000.jpg",
         "country_text": "مصر",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c9607ffdd8a10776f6a_abdelBasit.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c9607ffdd8a10776f6a_abdelBasit.png",
+        "correct_server": ""
+    },
+    {
+        "API_id": 30,
+        "name": "سعد الغامدي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/669ba04b83bc6631dbc08192_saadalghamdi.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c9675426f7d57844637_saadRhamdi.png",
+        "correct_server": ""
+    },
+    {
+        "API_id": 231,
+        "name": "هزاع البلوشي",
+        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08762f962b1a85f1f9_hozaaBaloshi.png",
+        "country_text": "عمان",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/om.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965d93f7afd3694573_hozaaBaloshi.png",
+        "correct_server": ""
+    },
+    {
+        "API_id": 163,
+        "name": "حاتم فريد الواعر",
+        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08555f187281d45ae0_HatimFaridWaair.png",
+        "country_text": "مصر",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96cfcf89a426b0258e_HatimFaridWaair.png",
+        "correct_server": ""
+    },
+    {
+        "API_id": 138,
+        "name": "نورين محمد صديق",
+        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e0840917fd0565aa215_nourinMuhamed.png",
+        "country_text": "السودان ",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sd.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965a33c8acb6c153a2_nourinMuhamed.png",
+        "correct_server": ""
+    },
+    {
+        "API_id": 253,
+        "name": "اسلام صبحي",
+        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08fea9a713e1835438_islamSoubhi.png",
+        "country_text": "مصر",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c965c36cba04ff43a1c_islamSoubhi.png",
+        "correct_server": ""
+    },
+    {
+        "API_id": 286,
+        "name": "حسن صالح",
+        "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e081ebc2423ce69b2eb_hassanSalih.png",
+        "country_text": "مصر",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96aa3eae4f11ebe50f_hassanSalih.png",
+        "correct_server": ""
     },
     {
         "API_id": 217,
@@ -103,7 +109,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e091380b00aa3c3a189_bandarBalila.png",
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c9660c58052db1b2fab_bandarBalila.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c9660c58052db1b2fab_bandarBalila.png",
+        "correct_server": ""
     },
     {
         "API_id": 92,
@@ -111,7 +118,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e082571da0dae7da443_yasserDossari.png",
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96ac2373f1d75806ca_yasserDossari.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96ac2373f1d75806ca_yasserDossari.png",
+        "correct_server": ""
     },
     {
         "API_id": 102,
@@ -119,7 +127,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e09f69e5aed5e67b0fd_maherMaaikli.png",
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96aa3eae4f11ebe509_maherMaaikli.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96aa3eae4f11ebe509_maherMaaikli.png",
+        "correct_server": ""
     },
     {
         "API_id": 4,
@@ -127,7 +136,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e09e3f0649cc01cc3ed_aboBakrShatri.png",
         "country_text": "اليمن",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/ye.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96aa3eae4f11ebe4c8_aboBakrShatri.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96aa3eae4f11ebe4c8_aboBakrShatri.png",
+        "correct_server": ""
     },
     {
         "API_id": 5,
@@ -135,7 +145,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08762f962b1a85f1cf_ahmedAlijmi.png",
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96f820102756ccc00a_ahmedAlijmi.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96f820102756ccc00a_ahmedAlijmi.png",
+        "correct_server": ""
     },
     {
         "API_id": 24,
@@ -143,7 +154,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08fea9a713e1835402_khalifaTanji.png",
         "country_text": "الامارات",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/ae.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96cfcf89a426b025a8_khalifaTanji.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96cfcf89a426b025a8_khalifaTanji.png",
+        "correct_server": ""
     },
     {
         "API_id": 31,
@@ -151,7 +163,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e0840917fd0565aa235_SsaoudSharim.png",
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96e27ce7e78120ef42_saoudSharim.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96e27ce7e78120ef42_saoudSharim.png",
+        "correct_server": ""
     },
     {
         "API_id": 86,
@@ -159,7 +172,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e08df1af50dd4b22a8a_nasirKatmi.png",
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c964daf448f92121e7b_nasirKatmi.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c964daf448f92121e7b_nasirKatmi.png",
+        "correct_server": ""
     },
     {
         "API_id": 12,
@@ -167,7 +181,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e09e3f0649cc01cc3f1_idrissAbkar.png",
         "country_text": "اليمن",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/ye.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c960314aeb0bed222d1_idrissAbkar.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c960314aeb0bed222d1_idrissAbkar.png",
+        "correct_server": ""
     },
     {
         "API_id": 245,
@@ -175,7 +190,8 @@ let ZIKR_reciters = [
         "avatar": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c3e089cedb1a2012607ff_mansourSalmi.png",
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
-        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96205c676904b2af2d_mansourSalmi.png"
+        "background_image": "https://uploads-ssl.webflow.com/6687b54a487f06f0128da746/668c4c96205c676904b2af2d_mansourSalmi.png",
+        "correct_server": ""
     },
     {
         "API_id": 112,
@@ -193,8 +209,503 @@ let ZIKR_reciters = [
         "country_text": "السعودية",
         "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
         "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c4db152150703a158d0897_%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D8%B0%D9%8A%D9%81%D9%8A.jpg",
+        "correct_server": ""
     },
-
+    {
+        "API_id": 252,
+        "name": "أحمد السويلم",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649387b861aa83566cc_%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D9%84%D9%85.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f5b7f14e251be6672d_pexels-grizzlybear-1101146.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 201,
+        "name": "أحمد الطرابلسي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649ce02f7a19cf3768a_%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A.jpg",
+        "country_text": "الكويت",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/kw.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f56744886560bb4e1a_pexels-pixabay-315998.jpg",
+        "correct_server": "https://server10.mp3quran.net/trabulsi/"
+    },
+    {
+        "API_id": 259,
+        "name": "أحمد النفيس",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649e1337c5e224c72a5_%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3.jpeg",
+        "country_text": "الكويت",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/kw.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f4387b861aa8351ce8_pexels-wiriyah-ruechaipanit-2319065-3989074.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 164,
+        "name": "إبراهيم الجرمي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6492ee1b7e05dd8ab07_%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D8%AC%D8%B1%D9%85%D9%8A.png",
+        "country_text": "الأردن",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/jo.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f4e04685acef22195c_pexels-souvenirpixels-1598073.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 15,
+        "name": "العشري عمران",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649ff6b7f7ba506e2b2_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86.jpg",
+        "country_text": "مصر",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f4a43762e556d1b69b_pexels-quang-nguyen-vinh-222549-2131899.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 16,
+        "name": "العيون الكوشي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6495efcec0e3a0ae4fd_%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D9%83%D9%88%D8%B4%D9%8A.jpg",
+        "country_text": "المغرب",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ma.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f4e04685acef221953_pexels-tomfisk-2879724.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 211,
+        "name": "الفاتح محمد الزبير",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6493019b08ba095749a_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%B1.png",
+        "country_text": "السودان",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sd.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f43643526e3064dfd3_pexels-wdnet-1009831.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 254,
+        "name": "بدر التركي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6496744886560bba729_%D8%A8%D8%AF%D8%B1%20%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f33019b08ba0952ffa_pexels-troy-squillaci-1303476-2521619.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 268,
+        "name": "قادر الكردي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64ad320003d1a6f9bc7_%D9%82%D8%A7%D8%AF%D8%B1%20%D8%A7%D9%84%D9%83%D8%B1%D8%AF%D9%8A.png",
+        "country_text": "العراق",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/iq.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3046eef8355dd87a1_pexels-pixabay-414513.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 181,
+        "name": "جمعان العصيمي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64a3643526e30653f0d_%D8%AC%D9%85%D8%B9%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%B5%D9%8A%D9%85%D9%8A.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f306b0d169d1d098cb_pexels-symeon-ekizoglou-1107605-2880755.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 22,
+        "name": "خالد عبدالكافي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649d2efa840f1ebc6de_%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3d64a9db9e4975087_pexels-pok-rie-33563-2017299.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 25,
+        "name": "داود حمزة",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64ae1337c5e224c7479_%D8%AF%D8%A7%D9%88%D8%AF%20%D8%AD%D9%85%D8%B2%D8%A9.png",
+        "country_text": "ليبيا",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ly.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3ce02f7a19cf31ebb_pexels-stijn-dijkstra-1306815-2674062.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 230,
+        "name": "رامي الدعيس",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64ad64a9db9e497c023_%D8%B1%D8%A7%D9%85%D9%8A%20%D8%A7%D9%84%D8%AF%D8%B9%D9%8A%D8%B3.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3076392a460aaa913_pexels-ollivves-931018.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 227,
+        "name": "رمضان شكور",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64a3643526e30653f38_%D8%B1%D9%85%D8%B6%D8%A7%D9%86%20%D8%B4%D9%83%D9%88%D8%B1.jpeg",
+        "country_text": "العراق",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/iq.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3d2efa840f1eb8899_pexels-souvenirpixels-1542495.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 35,
+        "name": "سامي الدوسري",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64a6edbb91f35d64481_%D8%B3%D8%A7%D9%85%D9%8A%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3e1337c5e224c1aa7_pexels-pixabay-462162.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 240,
+        "name": "سلمان العتيبي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64b076392a460aafb92_%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D8%A8%D9%8A.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f35efcec0e3a0a8ee7_pexels-quang-nguyen-vinh-222549-2131654.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 40,
+        "name": "صالح الصاهود",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64ad320003d1a6f9c6b_%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A7%D9%84%D8%B5%D8%A7%D9%87%D9%88%D8%AF.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f35efcec0e3a0a8ee4_pexels-quang-nguyen-vinh-222549-2172513.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 290,
+        "name": "صالح القريشي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64b5b6fbc5349b4eba5_%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%B4%D9%8A.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3b32c61daaabbe69c_pexels-quang-nguyen-vinh-222549-2884905.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 44,
+        "name": "صلاح الهاشم",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64ae2dee3d3cefae723_%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85.jpg",
+        "country_text": "الكويت",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/kw.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f31284f1a63d85ef7e_pexels-tobiasbjorkli-2335126.jpg",
+        "correct_server": "https://server12.mp3quran.net/salah_hashim_m/"
+    },
+    {
+        "API_id": 46,
+        "name": "صلاح بو خاطر",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64a2ee1b7e05dd8abf3_%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A8%D9%88%20%D8%AE%D8%A7%D8%B7%D8%B1.jpg",
+        "country_text": "الامارات",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ae.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f35b6fbc5349b4a38e_pexels-pok-rie-33563-2064693.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 246,
+        "name": "صلاح مصلي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64afe787c50f7a136e5_%D8%B5%D9%84%D8%A7%D8%AD%20%D9%85%D8%B5%D9%84%D9%8A.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3bea7984c4a0c6467_pexels-pixabay-415958.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 135,
+        "name": "عبدالرحمن السويّد",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64a5efcec0e3a0ae678_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D9%91%D8%AF.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3ce02f7a19cf31e9c_pexels-pixabay-414122.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 307,
+        "name": "عبدالعزيز سحيم",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64a046eef8355ddd0dc_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%B3%D8%AD%D9%8A%D9%85.jpg",
+        "country_text": "الجزائر",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/dz.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3d64a9db9e4975039_pexels-pok-rie-33563-673865.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 48,
+        "name": "عادل ريان",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64a1284f1a63d863afe_%D8%B9%D8%A7%D8%AF%D9%84%20%D8%B1%D9%8A%D8%A7%D9%86.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f39d127e2b13d65284_pexels-pixabay-158398.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 136,
+        "name": "عبدالإله بن عون",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64ad64a9db9e497c073_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%A5%D9%84%D9%87%20%D8%A8%D9%86%20%D8%B9%D9%88%D9%86.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f30eb46457150afb4e_pexels-pixabay-301395.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 287,
+        "name": "عبدالرحمن الشحات",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64abad8964a261d1914_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B4%D8%AD%D8%A7%D8%AA.jpg",
+        "country_text": "مصر",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f33643526e3064df9a_pexels-pixabay-534049.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 225,
+        "name": "عبدالرحمن العوسي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64bfe3a56fff05cde02_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B9%D9%88%D8%B3%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3e2dee3d3cefa9585_pexels-pixabay-50594.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 236,
+        "name": "عبدالرحمن الماجد",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64b229c69b40856a59f_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%AF.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3d2efa840f1eb87ab_pexels-markusspiske-92658.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 64,
+        "name": "عبدالرشيد صوفي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64bc7cb8a539f1c8e95_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%20%D8%B5%D9%88%D9%81%D9%8A.jpg",
+        "country_text": "الصومال",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/so.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3622b26fa6fc30d22_pexels-mirrographer-1679551.jpg",
+        "correct_server": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "API_id": 79,
+        "name": "عبدالعزيز التركي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64b0b70a04ae8065705_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f3622b26fa6fc30c8d_pexels-maxravier-2253821.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 56,
+        "name": "عبد العزيز الزهراني",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6481284f1a63d863938_%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D9%86%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f20b70a04ae8060b15_pexels-jmeyer1220-612999.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 263,
+        "name": "عبد العزيز العسيري",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6483643526e30653d8f_%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A7%D9%84%D8%B9%D8%B3%D9%8A%D8%B1%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f26744886560bb443e_pexels-kelly-1179532-2887792.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 58,
+        "name": "عبدالله البعيجان",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d648229c69b40856a3cf_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%A8%D8%B9%D9%8A%D8%AC%D8%A7%D9%86.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2d320003d1a6f5a9a_pexels-kinkate-368260.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 244,
+        "name": "عبد الله الخلف",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6489d127e2b13d69a36_%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%AE%D9%84%D9%81.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2e2dee3d3cefa9411_pexels-eberhardgross-456710.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 202,
+        "name": "عبدالله الكندري",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6481bdaa357115e8285_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%83%D9%86%D8%AF%D8%B1%D9%8A.jpg",
+        "country_text": "الكويت",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/kw.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f26edbb91f35d6060c_pexels-jeshoots-com-147458-576832.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 59,
+        "name": "عبدالله المطرود",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6492ee1b7e05dd8aab5_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%88%D8%AF.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2a43762e556d1b1a6_pexels-mikebirdy-127070.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 243,
+        "name": "عبدالله الموسى",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649e2dee3d3cefae534_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%89.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2703281e2ef64f7d4_pexels-japy-995939.jpg",
+        "correct_server": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+        "API_id": 29,
+        "name": "عبد الله بخاري",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6485b68dbd4f5bb81c5_%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2076392a460aaa873_pexels-lerkrat-tangsri-19447-96654.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 60,
+        "name": "عبدالله بصفر",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d648e1337c5e224c722b_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D8%B5%D9%81%D8%B1.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2d2efa840f1eb8650_pexels-jack-redgate-333633-2929227.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 72,
+        "name": "عبدالولي الأركاني",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d648ce02f7a19cf37614_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%84%D9%8A%20%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2fe787c50f7a0df0f_pexels-khanh-le-207985-666839.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 260,
+        "name": "عمر الدريويز",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6492ee1b7e05dd8aadc_%D8%B9%D9%85%D8%B1%20%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D9%88%D9%8A%D8%B2.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2046eef8355dd8619_pexels-jmsdono-105518.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 21181,
+        "name": "محمد برهجي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6483019b08ba09572a3_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D8%B1%D9%87%D8%AC%D9%8A.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f20b70a04ae8060abc_pexels-eberhardgross-1062249.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 47,
+        "name": "مختار الحاج",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d64906b0d169d1d0ed20_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D8%A7%D8%AC.jpg",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2c7cb8a539f1c3e04_pexels-hector-perez-1148818-3955093.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 149,
+        "name": "ماهر شخاشيرو",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d648e9cc11d29a3f184e_%D9%85%D8%A7%D9%87%D8%B1%20%D8%B4%D8%AE%D8%A7%D8%B4%D9%8A%D8%B1%D9%88.jpg",
+        "country_text": "سوريا",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sy.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2229c69b4085660fa_pexels-jaime-reimer-1376930-2662116.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 118,
+        "name": "محمود خليل الحصري",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649046eef8355ddcffe_%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A.png",
+        "country_text": "مصر",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/eg.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2e2dee3d3cefa939e_pexels-david-bartus-43782-602794.jpg",
+        "correct_server": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/"
+    },
+    {
+        "API_id": 123,
+        "name": "مشاري العفاسي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d648387b861aa835663f_%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%20%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A.jpg",
+        "country_text": "الكويت",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/kw.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f25b6fbc5349b4a2ee_pexels-david-bartus-43782-1166209.jpg",
+        "correct_server": "https://server8.mp3quran.net/afs/"
+    },
+    {
+        "API_id": 248,
+        "name": "ناصر العصفور",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649e2dee3d3cefae538_%D9%86%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B5%D9%81%D9%88%D8%B1.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f25b6fbc5349b4a2eb_pexels-chelsea-cook-1520634-2929903.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 273,
+        "name": "هيثم الدخين",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6481bdaa357115e82a0_%D9%87%D9%8A%D8%AB%D9%85%20%D8%A7%D9%84%D8%AF%D8%AE%D9%8A%D9%86.jpg",
+        "country_text": "اليمن",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ye.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f25b2b208a641c929b_pexels-adi-k-182036-582590.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 280,
+        "name": "هاشم أبو دلال",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d648622b26fa6fc35840_%D9%87%D8%A7%D8%B4%D9%85%20%D8%A3%D8%A8%D9%88%20%D8%AF%D9%84%D8%A7%D9%84.jpg",
+        "country_text": "الاردن",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/jo.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f26744886560bb4383_pexels-dreamypixel-547119.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 305,
+        "name": "هشام الهراز",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d648ff6b7f7ba506e25b_%D9%87%D8%B4%D8%A7%D9%85%20%D8%A7%D9%84%D9%87%D8%B1%D8%A7%D8%B2.jpg",
+        "country_text": "المغرب",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ma.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2046eef8355dd85f7_pexels-dom-gould-105501-325807.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 219,
+        "name": "وديع اليمني",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649387b861aa83566cf_%D9%88%D8%AF%D9%8A%D8%B9%20%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A.png",
+        "country_text": "اليمن",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ye.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2d2efa840f1eb862e_pexels-donaldtong94-91505.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 94,
+        "name": "ياسر الفيلكاوي",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649229c69b40856a460_%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D9%81%D9%8A%D9%84%D9%83%D8%A7%D9%88%D9%8A.jpg",
+        "country_text": "الكويت",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/kw.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f25efcec0e3a0a8c67_pexels-bkrustev-225203%20(1).jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 152,
+        "name": "ياسر سلامة",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649bea7984c4a0cb496_%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%B3%D9%84%D8%A7%D9%85%D8%A9.png",
+        "country_text": "السعودية",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/sa.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f25efcec0e3a0a8c67_pexels-bkrustev-225203%20(1).jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 193,
+        "name": "يوسف بن نوح أحمد",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d6491bdaa357115e832a_%D9%8A%D9%88%D8%B3%D9%81%20%D8%A8%D9%86%20%D9%86%D9%88%D8%AD%20%D8%A3%D8%AD%D9%85%D8%AF.jpg",
+        "country_text": "اليمن",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ye.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2bad8964a261cc303_pexels-baskincreativeco-1480807.jpg",
+        "correct_server": ""
+    },
+    {
+        "API_id": 264,
+        "name": "يونس اسويلص",
+        "avatar": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d649bad8964a261d17d1_%D9%8A%D9%88%D9%86%D8%B3%20%D8%A7%D8%B3%D9%88%D9%8A%D9%84%D8%B5.jpg",
+        "country_text": "المغرب",
+        "country_flag": "https://flagicons.lipis.dev/flags/4x3/ma.svg",
+        "background_image": "https://uploads-ssl.webflow.com/6697afdf41450cfa9b8390cd/66c9d5f2622b26fa6fc30be6_pexels-chavdar-lungov-2332494-3996363.jpg",
+        "correct_server": ""
+    }
 ]
 //NOTE Surah svg 
 const ZIKR_svg_suras = [
@@ -791,14 +1302,21 @@ function matchAPIData_with_ZIKRData() {
 
                 // Copying needed data from API to ZIKR reciters JSON
                 // if reciter has no server in its JSON then it will be replaced with server from API
-                if (ZIKR_reciter.correct_server) {
-                    ZIKR_reciter.server = ZIKR_reciter.correct_server; //reciter suras list
+                if (ZIKR_reciter.correct_server) {//this if statement for the reciter that has it own server picked by me
+                    API_reciter.moshaf.forEach(API_moshaf => {
+                        if (API_moshaf.server === ZIKR_reciter.correct_server) { // Warsh
+                            ZIKR_reciter.server = API_moshaf.server; //reciter suras list
+                            ZIKR_reciter.surah_total = API_moshaf.surah_total; //reciter total available suras number
+                            ZIKR_reciter.surah_list = API_moshaf.surah_list.split(",").map(str => parseInt(str)); //reciter suras list + chnaging string "1,2..." to array of numbers [1,2...]
+                        }
+                    })
+
                 } else {
                     ZIKR_reciter.server = API_reciter.moshaf[0].server; //reciter suras list
-
+                    ZIKR_reciter.surah_total = API_reciter.moshaf[0].surah_total; //reciter total available suras number
+                    ZIKR_reciter.surah_list = API_reciter.moshaf[0].surah_list.split(",").map(str => parseInt(str)); //reciter suras list + chnaging string "1,2..." to array of numbers [1,2...]
                 }
-                ZIKR_reciter.surah_total = API_reciter.moshaf[0].surah_total; //reciter total available suras number
-                ZIKR_reciter.surah_list = API_reciter.moshaf[0].surah_list.split(",").map(str => parseInt(str)); //reciter suras list + chnaging string "1,2..." to array of numbers [1,2...]
+
             }
         })
     });
