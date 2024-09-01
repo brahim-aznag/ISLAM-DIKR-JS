@@ -1461,13 +1461,6 @@ function renderReictersNumbers() {
 //^--------------------------------------------------------------------
 
 
-// hide the badge
-// document.querySelector('.w-webflow-badge').remove();
-
-
-
-
-
 
 
 /* ----------------------------------- /FUNCTIONS/ ----------------------------------- */
